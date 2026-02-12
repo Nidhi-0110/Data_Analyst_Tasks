@@ -68,5 +68,5 @@ Data cleaning is a crucial step before data analysis and modeling.
 ---
 
 ## 👤 Author
-Name: Nidhi patel 
-Role: Data Analyst Intern  
+- Name: Nidhi patel 
+- Role: Data Analyst Intern  
