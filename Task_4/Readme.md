@@ -75,12 +75,11 @@ The dataset contains sales transaction data including:
 ## 📂 Repository Structure
 📁 Sales-Dashboard-PowerBI
 - 📄 Sales_Dashboard.pbix
-📁 Dataset
+### 📁 Dataset
  - 📄 sales_data.csv
- 📁 Screenshots
+ ### 📁 Screenshots
 - 📄 dashboard.png
-- 📄 Sales_Dashboard_Presentation.pptx
--📄 README.md
+### 📄 Sales_Dashboard_Presentation.pptx
 
 ---
 
