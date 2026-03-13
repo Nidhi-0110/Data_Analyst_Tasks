@@ -131,7 +131,7 @@ Visualizations created include:
 
 ## Author
 Data Analytics Project demonstrating skills in **SQL, Python, and Business Intelligence dashboards** for retail performance analysis.
-Nidhi Patel
-Data Analyst Intern
+* Name: Nidhi patel
+* Role: Data Analyst Intern
 ---
 
